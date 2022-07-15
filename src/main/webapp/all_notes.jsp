@@ -1,8 +1,7 @@
-<%@ page import="org.hibernate.Session"%>
-<%@ page import="java.util.*"%>
 <%@ page import="org.hibernate.*"%>
+<%@ page import="java.util.*"%>
 <%@page import="com.helper.*"%>
-<%@page import="com.Entities.Note"%>
+<%@page import="com.Entities.*"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
